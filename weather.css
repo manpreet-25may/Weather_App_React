@@ -1,0 +1,27 @@
+.box{
+    box-shadow: 0 4px 8px 0 rgba(6, 6, 6, 0.2);
+    width: 300px;
+    height: 350px;
+    margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  font-family: arial;
+  background-color: rgb(195, 228, 239);
+  font-style: italic;
+}
+.inputdata input{
+    margin-top: 30px;
+    border-radius: 2px solid black;
+    height: 30px;
+}
+.fa-solid fa-street-view
+{
+    width:550px;
+    height: 150px;
+}
+.weather{
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
